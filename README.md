@@ -1,4 +1,4 @@
-# Untitled-Strategy-Game
+# Untitled Strategy Game
 A minimalistic real-time strategy game
 
 > This game’s source code is free for personal and educational use only.
